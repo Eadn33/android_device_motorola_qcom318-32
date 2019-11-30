@@ -1,7 +1,6 @@
 # Proprietary files for addison
 
 # ADSP
-bin/adspd
 bin/adsprpcd
 lib/libadspd.so
 vendor/lib/libadsprpc.so
